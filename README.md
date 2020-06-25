@@ -1,6 +1,6 @@
 # Xylophone_flutter
 
-A new Flutter project.
+A simple Xylophone play App
 
 ## Getting Started
 
