@@ -1,6 +1,6 @@
 # Xylophone_flutter
 
-A simple Xylophone play App
+A simple Xylophone play App learned from resources during test learning
 
 <img src="Screenshots/xylophone.JPG">
 
