@@ -2,6 +2,8 @@
 
 A simple Xylophone play App
 
+<img src="Screenshots/xylophone.JPG">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
